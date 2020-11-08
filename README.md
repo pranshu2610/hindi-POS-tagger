@@ -1,5 +1,6 @@
 # Hindi POS Tagger
 Implementation of POS Tagger for Hindi language
+https://mothereff.in/utf-8
 
 ## Todo
 

@@ -9,6 +9,8 @@ def word_divider(rawFile):
 
 # f = open(".\database\idxadverb.txt", "r")
 f = open(".\database\idxverb.txt", "r")
-# f = open(".\database\example.txt", "r")
 a = word_divider(f)
-print(a[0])
+a = a[:1]
+print(b)
+# raw_string = r"{}".format(a)
+
