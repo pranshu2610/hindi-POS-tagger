@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-The objective of this project is to build an accurate Part of speech tagger for the Hindi Language using NTLK Module.
-
+The objective of this project is to build an accurate Part of speech tagger for the Hindi Language using NTLK Module. <br/>
+<a href="https://colab.research.google.com/github/pranshu2610/hindi-POS-tagger/blob/master/script.ipynb" target="_blank">View on Google Colab</a>
 
 ## Collaborators
 
